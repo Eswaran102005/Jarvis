@@ -1,0 +1,784 @@
+[
+  {
+    "name": "shared",
+    "path": "/Users/Shared",
+    "type": "folder"
+  },
+  {
+    "name": "macbook",
+    "path": "/Users/macbook",
+    "type": "folder"
+  },
+  {
+    "name": "sc info",
+    "path": "/Users/Shared/SC Info",
+    "type": "folder"
+  },
+  {
+    "name": "relocated items",
+    "path": "/Users/Shared/Relocated Items",
+    "type": "folder"
+  },
+  {
+    "name": "configuration",
+    "path": "/Users/Shared/Relocated Items/Configuration",
+    "type": "folder"
+  },
+  {
+    "name": "private",
+    "path": "/Users/Shared/Relocated Items/Configuration/private",
+    "type": "folder"
+  },
+  {
+    "name": "music",
+    "path": "/Users/macbook/Music",
+    "type": "folder"
+  },
+  {
+    "name": "pictures",
+    "path": "/Users/macbook/Pictures",
+    "type": "folder"
+  },
+  {
+    "name": "desktop",
+    "path": "/Users/macbook/Desktop",
+    "type": "folder"
+  },
+  {
+    "name": "public",
+    "path": "/Users/macbook/Public",
+    "type": "folder"
+  },
+  {
+    "name": "movies",
+    "path": "/Users/macbook/Movies",
+    "type": "folder"
+  },
+  {
+    "name": "documents",
+    "path": "/Users/macbook/Documents",
+    "type": "folder",
+    "usage_score": 1
+  },
+  {
+    "name": "downloads",
+    "path": "/Users/macbook/Downloads",
+    "type": "folder",
+    "usage_score": 4
+  },
+  {
+    "name": "music",
+    "path": "/Users/macbook/Music/Music",
+    "type": "folder"
+  },
+  {
+    "name": "media.localized",
+    "path": "/Users/macbook/Music/Music/Media.localized",
+    "type": "folder"
+  },
+  {
+    "name": "music library.musiclibrary",
+    "path": "/Users/macbook/Music/Music/Music Library.musiclibrary",
+    "type": "folder"
+  },
+  {
+    "name": "previous libraries.localized",
+    "path": "/Users/macbook/Music/Music/Previous Libraries.localized",
+    "type": "folder"
+  },
+  {
+    "name": "automatically add to music.localized",
+    "path": "/Users/macbook/Music/Music/Media.localized/Automatically Add to Music.localized",
+    "type": "folder"
+  },
+  {
+    "name": "application.musicdb",
+    "path": "/Users/macbook/Music/Music/Music Library.musiclibrary/Application.musicdb",
+    "type": "file"
+  },
+  {
+    "name": "extras.itdb",
+    "path": "/Users/macbook/Music/Music/Music Library.musiclibrary/Extras.itdb",
+    "type": "file"
+  },
+  {
+    "name": "sentinel",
+    "path": "/Users/macbook/Music/Music/Music Library.musiclibrary/sentinel",
+    "type": "file"
+  },
+  {
+    "name": "library.musicdb",
+    "path": "/Users/macbook/Music/Music/Music Library.musiclibrary/Library.musicdb",
+    "type": "file"
+  },
+  {
+    "name": "genius.itdb",
+    "path": "/Users/macbook/Music/Music/Music Library.musiclibrary/Genius.itdb",
+    "type": "file"
+  },
+  {
+    "name": "library preferences.musicdb",
+    "path": "/Users/macbook/Music/Music/Music Library.musiclibrary/Library Preferences.musicdb",
+    "type": "file"
+  },
+  {
+    "name": "preferences.plist",
+    "path": "/Users/macbook/Music/Music/Music Library.musiclibrary/Preferences.plist",
+    "type": "file"
+  },
+  {
+    "name": "music library [2026-04-05 14.54.42].musiclibrary",
+    "path": "/Users/macbook/Music/Music/Previous Libraries.localized/Music Library [2026-04-05 14.54.42].musiclibrary",
+    "type": "folder"
+  },
+  {
+    "name": "application.musicdb",
+    "path": "/Users/macbook/Music/Music/Previous Libraries.localized/Music Library [2026-04-05 14.54.42].musiclibrary/Application.musicdb",
+    "type": "file"
+  },
+  {
+    "name": "extras.itdb",
+    "path": "/Users/macbook/Music/Music/Previous Libraries.localized/Music Library [2026-04-05 14.54.42].musiclibrary/Extras.itdb",
+    "type": "file"
+  },
+  {
+    "name": "sentinel",
+    "path": "/Users/macbook/Music/Music/Previous Libraries.localized/Music Library [2026-04-05 14.54.42].musiclibrary/sentinel",
+    "type": "file"
+  },
+  {
+    "name": "library.musicdb",
+    "path": "/Users/macbook/Music/Music/Previous Libraries.localized/Music Library [2026-04-05 14.54.42].musiclibrary/Library.musicdb",
+    "type": "file"
+  },
+  {
+    "name": "genius.itdb",
+    "path": "/Users/macbook/Music/Music/Previous Libraries.localized/Music Library [2026-04-05 14.54.42].musiclibrary/Genius.itdb",
+    "type": "file"
+  },
+  {
+    "name": "library preferences.musicdb",
+    "path": "/Users/macbook/Music/Music/Previous Libraries.localized/Music Library [2026-04-05 14.54.42].musiclibrary/Library Preferences.musicdb",
+    "type": "file"
+  },
+  {
+    "name": "preferences.plist",
+    "path": "/Users/macbook/Music/Music/Previous Libraries.localized/Music Library [2026-04-05 14.54.42].musiclibrary/Preferences.plist",
+    "type": "file"
+  },
+  {
+    "name": "photo booth library",
+    "path": "/Users/macbook/Pictures/Photo Booth Library",
+    "type": "folder"
+  },
+  {
+    "name": "photos library.photoslibrary",
+    "path": "/Users/macbook/Pictures/Photos Library.photoslibrary",
+    "type": "folder"
+  },
+  {
+    "name": "lightroom library.lrlibrary",
+    "path": "/Users/macbook/Pictures/Lightroom Library.lrlibrary",
+    "type": "folder"
+  },
+  {
+    "name": "foldersourcepreviews",
+    "path": "/Users/macbook/Pictures/Lightroom Library.lrlibrary/FolderSourcePreviews",
+    "type": "folder"
+  },
+  {
+    "name": "hobbi_project",
+    "path": "/Users/macbook/Desktop/Hobbi_Project",
+    "type": "folder"
+  },
+  {
+    "name": "local send",
+    "path": "/Users/macbook/Desktop/Local Send",
+    "type": "folder"
+  },
+  {
+    "name": "usage",
+    "path": "/Users/macbook/Desktop/Usage",
+    "type": "folder"
+  },
+  {
+    "name": "portfolio",
+    "path": "/Users/macbook/Desktop/portfolio",
+    "type": "folder"
+  },
+  {
+    "name": "static",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/static",
+    "type": "folder"
+  },
+  {
+    "name": "templates",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/templates",
+    "type": "folder"
+  },
+  {
+    "name": "test_voice.py",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/test_voice.py",
+    "type": "file"
+  },
+  {
+    "name": "file_index.py",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/file_index.py",
+    "type": "file"
+  },
+  {
+    "name": "requirements.txt",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/requirements.txt",
+    "type": "file"
+  },
+  {
+    "name": "memory.py",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/memory.py",
+    "type": "file"
+  },
+  {
+    "name": "ai.py",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/ai.py",
+    "type": "file"
+  },
+  {
+    "name": "voice.py",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/voice.py",
+    "type": "file"
+  },
+  {
+    "name": "utils.py",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/utils.py",
+    "type": "file"
+  },
+  {
+    "name": "indexer.py",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/indexer.py",
+    "type": "file"
+  },
+  {
+    "name": "app.py",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/app.py",
+    "type": "file"
+  },
+  {
+    "name": "file_index.json",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/file_index.json",
+    "type": "file"
+  },
+  {
+    "name": "commands.py",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/commands.py",
+    "type": "file"
+  },
+  {
+    "name": "gui.py",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/gui.py",
+    "type": "file"
+  },
+  {
+    "name": "desktop.py",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/desktop.py",
+    "type": "file"
+  },
+  {
+    "name": "script.js",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/static/script.js",
+    "type": "file"
+  },
+  {
+    "name": "style.css",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/static/style.css",
+    "type": "file"
+  },
+  {
+    "name": "index.html",
+    "path": "/Users/macbook/Desktop/Hobbi_Project/templates/index.html",
+    "type": "file"
+  },
+  {
+    "name": "[www.moviesfd.vip]-aquaman.2018.bluray.1080p.x264.[hindi.tamil.telugu.english].dd5.1.esub.mkv",
+    "path": "/Users/macbook/Desktop/Local Send/[www.MoviesFD.vip]-Aquaman.2018.BluRay.1080p.x264.[Hindi.Tamil.Telugu.English].DD5.1.ESub.mkv",
+    "type": "file"
+  },
+  {
+    "name": "i am doom. to doubt me is to doubt fate itself. - dr doom.@zenlessace..........................jpg",
+    "path": "/Users/macbook/Desktop/Local Send/I am Doom. To doubt me is to doubt fate itself. - dr doom.@zenlessace..........................jpg",
+    "type": "file"
+  },
+  {
+    "name": "[www.moviesfd.vip]-youth.2026.webrip.1080p.x264.[hindi.tamil.kannada].dd5.1.esub.mkv",
+    "path": "/Users/macbook/Desktop/Local Send/[www.MoviesFD.vip]-Youth.2026.WebRip.1080p.x264.[Hindi.Tamil.Kannada].DD5.1.ESub.mkv",
+    "type": "file"
+  },
+  {
+    "name": "part 2.mp4",
+    "path": "/Users/macbook/Desktop/Local Send/part 2.mp4",
+    "type": "file"
+  },
+  {
+    "name": "moviesda.mobi - salaar 2023 original 1080p hd.mp4",
+    "path": "/Users/macbook/Desktop/Local Send/Moviesda.Mobi - Salaar 2023 Original 1080p HD.mp4",
+    "type": "file"
+  },
+  {
+    "name": "part 1.mp4",
+    "path": "/Users/macbook/Desktop/Local Send/part 1.mp4",
+    "type": "file"
+  },
+  {
+    "name": "reacthook",
+    "path": "/Users/macbook/Desktop/Usage/reacthook",
+    "type": "folder"
+  },
+  {
+    "name": "java",
+    "path": "/Users/macbook/Desktop/Usage/java",
+    "type": "folder"
+  },
+  {
+    "name": "index.html",
+    "path": "/Users/macbook/Desktop/Usage/index.html",
+    "type": "file"
+  },
+  {
+    "name": "cals.js",
+    "path": "/Users/macbook/Desktop/Usage/cals.js",
+    "type": "file"
+  },
+  {
+    "name": "es6.js",
+    "path": "/Users/macbook/Desktop/Usage/es6.js",
+    "type": "file"
+  },
+  {
+    "name": "ans.js",
+    "path": "/Users/macbook/Desktop/Usage/ans.js",
+    "type": "file"
+  },
+  {
+    "name": "hooks",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks",
+    "type": "folder"
+  },
+  {
+    "name": "public",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/public",
+    "type": "folder"
+  },
+  {
+    "name": "src",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/src",
+    "type": "folder"
+  },
+  {
+    "name": "readme.md",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/README.md",
+    "type": "file"
+  },
+  {
+    "name": "package-lock.json",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/package-lock.json",
+    "type": "file"
+  },
+  {
+    "name": "package.json",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/package.json",
+    "type": "file"
+  },
+  {
+    "name": "favicon.ico",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/public/favicon.ico",
+    "type": "file"
+  },
+  {
+    "name": "index.html",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/public/index.html",
+    "type": "file"
+  },
+  {
+    "name": "logo512.png",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/public/logo512.png",
+    "type": "file"
+  },
+  {
+    "name": "manifest.json",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/public/manifest.json",
+    "type": "file"
+  },
+  {
+    "name": "robots.txt",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/public/robots.txt",
+    "type": "file"
+  },
+  {
+    "name": "logo192.png",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/public/logo192.png",
+    "type": "file"
+  },
+  {
+    "name": "reportwebvitals.js",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/src/reportWebVitals.js",
+    "type": "file"
+  },
+  {
+    "name": "app.css",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/src/App.css",
+    "type": "file"
+  },
+  {
+    "name": "index.js",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/src/index.js",
+    "type": "file"
+  },
+  {
+    "name": "index.css",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/src/index.css",
+    "type": "file"
+  },
+  {
+    "name": "app.test.js",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/src/App.test.js",
+    "type": "file"
+  },
+  {
+    "name": "setuptests.js",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/src/setupTests.js",
+    "type": "file"
+  },
+  {
+    "name": "logo.svg",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/src/logo.svg",
+    "type": "file"
+  },
+  {
+    "name": "app.js",
+    "path": "/Users/macbook/Desktop/Usage/reacthook/hooks/src/App.js",
+    "type": "file"
+  },
+  {
+    "name": "ex.java",
+    "path": "/Users/macbook/Desktop/Usage/java/ex.java",
+    "type": "file"
+  },
+  {
+    "name": "ex.class",
+    "path": "/Users/macbook/Desktop/Usage/java/ex.class",
+    "type": "file"
+  },
+  {
+    "name": "dist",
+    "path": "/Users/macbook/Desktop/portfolio/dist",
+    "type": "folder"
+  },
+  {
+    "name": "js",
+    "path": "/Users/macbook/Desktop/portfolio/js",
+    "type": "folder"
+  },
+  {
+    "name": "public",
+    "path": "/Users/macbook/Desktop/portfolio/public",
+    "type": "folder"
+  },
+  {
+    "name": "src",
+    "path": "/Users/macbook/Desktop/portfolio/src",
+    "type": "folder"
+  },
+  {
+    "name": "tsconfig.node.json",
+    "path": "/Users/macbook/Desktop/portfolio/tsconfig.node.json",
+    "type": "file"
+  },
+  {
+    "name": "index.html",
+    "path": "/Users/macbook/Desktop/portfolio/index.html",
+    "type": "file"
+  },
+  {
+    "name": "tailwind.config.js",
+    "path": "/Users/macbook/Desktop/portfolio/tailwind.config.js",
+    "type": "file"
+  },
+  {
+    "name": "vite.config.js",
+    "path": "/Users/macbook/Desktop/portfolio/vite.config.js",
+    "type": "file"
+  },
+  {
+    "name": "main.js",
+    "path": "/Users/macbook/Desktop/portfolio/main.js",
+    "type": "file"
+  },
+  {
+    "name": "package-lock.json",
+    "path": "/Users/macbook/Desktop/portfolio/package-lock.json",
+    "type": "file"
+  },
+  {
+    "name": "package.json",
+    "path": "/Users/macbook/Desktop/portfolio/package.json",
+    "type": "file"
+  },
+  {
+    "name": "style.css",
+    "path": "/Users/macbook/Desktop/portfolio/style.css",
+    "type": "file"
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "/Users/macbook/Desktop/portfolio/tsconfig.json",
+    "type": "file"
+  },
+  {
+    "name": "postcss.config.js",
+    "path": "/Users/macbook/Desktop/portfolio/postcss.config.js",
+    "type": "file"
+  },
+  {
+    "name": "assets",
+    "path": "/Users/macbook/Desktop/portfolio/dist/assets",
+    "type": "folder"
+  },
+  {
+    "name": "index.html",
+    "path": "/Users/macbook/Desktop/portfolio/dist/index.html",
+    "type": "file"
+  },
+  {
+    "name": "index-dvyebj5d.js",
+    "path": "/Users/macbook/Desktop/portfolio/dist/assets/index-DvyebJ5d.js",
+    "type": "file"
+  },
+  {
+    "name": "index-dgeu8dvx.css",
+    "path": "/Users/macbook/Desktop/portfolio/dist/assets/index-DgEU8dVX.css",
+    "type": "file"
+  },
+  {
+    "name": "hero3d.js",
+    "path": "/Users/macbook/Desktop/portfolio/js/hero3d.js",
+    "type": "file"
+  },
+  {
+    "name": "liquidcursor.js",
+    "path": "/Users/macbook/Desktop/portfolio/js/liquidCursor.js",
+    "type": "file"
+  },
+  {
+    "name": "assets",
+    "path": "/Users/macbook/Desktop/portfolio/public/assets",
+    "type": "folder"
+  },
+  {
+    "name": "components",
+    "path": "/Users/macbook/Desktop/portfolio/src/components",
+    "type": "folder"
+  },
+  {
+    "name": "index.css",
+    "path": "/Users/macbook/Desktop/portfolio/src/index.css",
+    "type": "file"
+  },
+  {
+    "name": "main.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/main.jsx",
+    "type": "file"
+  },
+  {
+    "name": "app.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/App.jsx",
+    "type": "file"
+  },
+  {
+    "name": "journal.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/Journal.jsx",
+    "type": "file"
+  },
+  {
+    "name": "startsection.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/StartSection.jsx",
+    "type": "file"
+  },
+  {
+    "name": "stats.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/Stats.jsx",
+    "type": "file"
+  },
+  {
+    "name": "testimonials.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/Testimonials.jsx",
+    "type": "file"
+  },
+  {
+    "name": "footer.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/Footer.jsx",
+    "type": "file"
+  },
+  {
+    "name": "scrollprovider.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/ScrollProvider.jsx",
+    "type": "file"
+  },
+  {
+    "name": "robotcontact.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/RobotContact.jsx",
+    "type": "file"
+  },
+  {
+    "name": "featureschess.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/FeaturesChess.jsx",
+    "type": "file"
+  },
+  {
+    "name": "typingtext.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/TypingText.jsx",
+    "type": "file"
+  },
+  {
+    "name": "skillscanvas.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/SkillsCanvas.jsx",
+    "type": "file"
+  },
+  {
+    "name": "navbar.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/Navbar.jsx",
+    "type": "file"
+  },
+  {
+    "name": "hero.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/Hero.jsx",
+    "type": "file"
+  },
+  {
+    "name": "projects.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/Projects.jsx",
+    "type": "file"
+  },
+  {
+    "name": "selectedworks.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/SelectedWorks.jsx",
+    "type": "file"
+  },
+  {
+    "name": "cartoonrocket.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/CartoonRocket.jsx",
+    "type": "file"
+  },
+  {
+    "name": "featuresgrid.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/FeaturesGrid.jsx",
+    "type": "file"
+  },
+  {
+    "name": "explorations.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/Explorations.jsx",
+    "type": "file"
+  },
+  {
+    "name": "blurtext.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/BlurText.jsx",
+    "type": "file"
+  },
+  {
+    "name": "loadingscreen.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/LoadingScreen.jsx",
+    "type": "file"
+  },
+  {
+    "name": "ctafooter.jsx",
+    "path": "/Users/macbook/Desktop/portfolio/src/components/CtaFooter.jsx",
+    "type": "file"
+  },
+  {
+    "name": "drop box",
+    "path": "/Users/macbook/Public/Drop Box",
+    "type": "folder"
+  },
+  {
+    "name": "tv",
+    "path": "/Users/macbook/Movies/TV",
+    "type": "folder"
+  },
+  {
+    "name": "media.localized",
+    "path": "/Users/macbook/Movies/TV/Media.localized",
+    "type": "folder"
+  },
+  {
+    "name": "previous libraries.localized",
+    "path": "/Users/macbook/Movies/TV/Previous Libraries.localized",
+    "type": "folder"
+  },
+  {
+    "name": "tv library.tvlibrary",
+    "path": "/Users/macbook/Movies/TV/TV Library.tvlibrary",
+    "type": "folder"
+  },
+  {
+    "name": "tv library [2026-04-15 9.29.39].tvlibrary",
+    "path": "/Users/macbook/Movies/TV/Previous Libraries.localized/TV Library [2026-04-15 9.29.39].tvlibrary",
+    "type": "folder"
+  },
+  {
+    "name": "library preferences.tvdb",
+    "path": "/Users/macbook/Movies/TV/Previous Libraries.localized/TV Library [2026-04-15 9.29.39].tvlibrary/Library Preferences.tvdb",
+    "type": "file"
+  },
+  {
+    "name": "library.tvdb",
+    "path": "/Users/macbook/Movies/TV/Previous Libraries.localized/TV Library [2026-04-15 9.29.39].tvlibrary/Library.tvdb",
+    "type": "file"
+  },
+  {
+    "name": "library preferences.tvdb",
+    "path": "/Users/macbook/Movies/TV/TV Library.tvlibrary/Library Preferences.tvdb",
+    "type": "file"
+  },
+  {
+    "name": "library.tvdb",
+    "path": "/Users/macbook/Movies/TV/TV Library.tvlibrary/Library.tvdb",
+    "type": "file"
+  },
+  {
+    "name": "qswvik-69611c542f48b-monthly_december_english_aparchit_super_current_affairs_best_350+ copy.pdf",
+    "path": "/Users/macbook/Documents/qSwvik-69611c542f48b-monthly_december_english_aparchit_super_current_affairs_best_350+ copy.pdf",
+    "type": "file"
+  },
+  {
+    "name": "ollama.dmg",
+    "path": "/Users/macbook/Downloads/Ollama.dmg",
+    "type": "file"
+  },
+  {
+    "name": "invoice_generator_abstract.pdf",
+    "path": "/Users/macbook/Downloads/invoice_generator_abstract.pdf",
+    "type": "file"
+  },
+  {
+    "name": "658059656_17907618924383412_1530615439328122005_n.jpg",
+    "path": "/Users/macbook/Downloads/658059656_17907618924383412_1530615439328122005_n.jpg",
+    "type": "file"
+  },
+  {
+    "name": "eswaran_onepage_resume-1.pdf",
+    "path": "/Users/macbook/Downloads/Eswaran_OnePage_Resume-1.pdf",
+    "type": "file"
+  },
+  {
+    "name": "advanced_jarvis_full_guide.pdf",
+    "path": "/Users/macbook/Downloads/Advanced_Jarvis_Full_Guide.pdf",
+    "type": "file"
+  },
+  {
+    "name": "mohana_one_page_resume (1).pdf",
+    "path": "/Users/macbook/Downloads/Mohana_One_Page_Resume (1).pdf",
+    "type": "file"
+  },
+  {
+    "name": "ai_second_brain_abstract.pdf",
+    "path": "/Users/macbook/Downloads/AI_Second_Brain_Abstract.pdf",
+    "type": "file"
+  }
+]

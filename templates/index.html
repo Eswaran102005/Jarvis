@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jarvis OS - Neural Link</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Inter:wght@300;600&family=Roboto+Mono:wght@400&display=swap" rel="stylesheet">
+</head>
+<body class="booting">
+    <!-- Cinematic Boot Overlay -->
+    <div id="boot-screen">
+        <div class="boot-loader">
+            <div class="boot-logo">JARVIS</div>
+            <div class="boot-log" id="boot-log">
+                <!-- Logs will be populated by JS -->
+            </div>
+            <div class="boot-progress-bar">
+                <div class="progress-fill"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Transparent Particle Layer -->
+    <div id="particles-js"></div>
+
+    <div id="hud-container" class="hidden">
+        <!-- Top HUD Row -->
+        <header class="hud-header-top">
+            <!-- Top Left: Time & Date -->
+            <div class="hud-widget top-left">
+                <div class="widget-glitch-border"></div>
+                <div id="live-clock">00:00:00</div>
+                <div id="live-date">SATURDAY, 18 APRIL</div>
+                <div class="hud-line"></div>
+                <div class="system-tag">CHRONOS_LINK_ONLINE</div>
+            </div>
+
+            <!-- Top Right: System Metrics -->
+            <div class="hud-widget top-right">
+                <div class="widget-glitch-border"></div>
+                <div class="metric-row">
+                    <span class="label">CPU_LOAD:</span>
+                    <span class="value" id="cpu-val">32%</span>
+                </div>
+                <div class="metric-row">
+                    <span class="label">NET_LINK:</span>
+                    <span class="value" id="net-val">SYNCED</span>
+                </div>
+                <div class="metric-row">
+                    <span class="label">AI_CORE:</span>
+                    <span class="value cyan-pulse">STABLE</span>
+                </div>
+                <div class="hud-line"></div>
+                <div class="system-tag">A2141_HARDWARE_SYNC</div>
+            </div>
+        </header>
+
+        <!-- Center: Neural Core (Orb 2.1) -->
+        <main id="neural-core">
+            <div class="ring outer-ring"></div>
+            <div class="ring middle-ring"></div>
+            <div class="ring inner-ring"></div>
+            <div class="core-aura"></div>
+            <div class="orb"></div>
+            <div class="wave-rings">
+                <div class="wave"></div>
+                <div class="wave"></div>
+            </div>
+            <div class="status-indicator">
+                <span class="bracket">[</span>
+                <span id="status-text">SYSTEM STANDBY</span>
+                <span class="bracket">]</span>
+            </div>
+        </main>
+
+        <!-- Bottom: Neural Transcript HUD -->
+        <section id="transcript-hud">
+            <div class="hud-header">
+                <span class="title">NEURAL_TRANSCRIPT</span>
+                <span class="status-pill active">LIVE_CONNECTION</span>
+            </div>
+            <div id="history-container"></div>
+            <div class="hud-footer">
+                <div class="scanline"></div>
+            </div>
+        </section>
+
+        <!-- Interactive Panel Layer -->
+        <div id="panel-layer"></div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+# Build files
+dist/
+build/
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# PyInstaller
+*.spec
+
+# App files
+*.app
+*.exe
+*.dmg
